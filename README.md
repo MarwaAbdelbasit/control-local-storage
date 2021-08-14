@@ -11,3 +11,6 @@ this app allows the user to interface with the local storage by:
 3 - show all items
 
 4 - search for an item 
+
+**Application link**
+https://marwaabdelbasit.github.io/control-local-storage/
